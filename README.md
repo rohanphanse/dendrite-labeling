@@ -15,6 +15,6 @@ Overall Average Dendrite Length (in pixels) 142.063
 ```
 The output in dendrite-overview.txt from running main.py, which summarizes the overall characteristics of the labeled dendrite data.
 
-Image goes here
+![Average dendrite length bar chart](https://raw.githubusercontent.com/rohanphanse/dendrite-labeling/main/Figure_1.png)
 
 The bar chart plotting average dendrite length per image, generated with matplotlib in main.py.
